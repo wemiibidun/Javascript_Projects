@@ -10,12 +10,10 @@ Each year following equates to 4 dog years.
 
 Before you start doing the math in your head, let a computer take care of it!
 
-*****************************
 
 **Aim**
 In this project, my aim is to use JavaScript to show you how to convert your age from “human years” to “dog years”:
 
-*****************************
 
 **What I learnt**
 
@@ -23,18 +21,15 @@ In this project, my aim is to use JavaScript to show you how to convert your age
 
 - My knowledge of math operators was also useful here
 
-*****************************
 
 **My TakeHome**
 
 Javascript can be used to achieve a lot compared to HTML and CSS
 
-*****************************
 
 **Feedback**
 
 Feedback is always welcome. If you have any to give, please email me via wemiibidun@gmail.com
 
-*****************************
 
 **Cheers!!!** 😊
