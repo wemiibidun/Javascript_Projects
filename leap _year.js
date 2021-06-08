@@ -9,7 +9,7 @@ function isLeap(year) {
         else if(year % 100 === 0 && year % 400 !== 0){
             return("Not leap year.");
         } 
-        else (year % 100 === 0 && year % 400 === 0){
+        else (year % 100 === 0 && year % 400 === 0);{
             return("Leap year.");
         } 
     }    
